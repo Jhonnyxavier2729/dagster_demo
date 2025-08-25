@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Herramientas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+
+# Dagster (estado local que NO va al repo)
+.dagster/
+dagster_home/
+logs/
+storage/
+*.db
+*.sqlite
+
+# Datos (opcional: excluye datasets pesados)
+data/
+!data/README.md
