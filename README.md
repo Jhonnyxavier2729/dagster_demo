@@ -11,10 +11,7 @@ Este proyecto implementa un pipeline ETL (Extracción, Transformación y Carga) 
 - [Acerca del Proyecto](#acerca-del-proyecto-)
 - [Características Principales](#características-principales-)
 - [Stack Tecnológico](#stack-tecnológico-️)
-- [Estructura del Proyecto](#estructura-del-proyecto-)
-- [Cómo Empezar](#cómo-empezar-)
-- [Uso del Pipeline](#uso-del-pipeline-️)
-- [Automatización](#automatización-⏰)
+
 
 
 ---
